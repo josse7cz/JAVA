@@ -1,8 +1,8 @@
 public class for_zaklad {
     public static void main(String[] args) {
-        for (initialization, termination, increment ) {
-            // Body of the loop (telo slučky)
-        }
+//        for (initialization, termination, increment ) {
+//            // Body of the loop (telo slučky)
+//        }
     }
 }
 /* Initialization (inicializácia): Tento výraz sa vykoná iba raz, 

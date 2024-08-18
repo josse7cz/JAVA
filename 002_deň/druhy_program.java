@@ -9,9 +9,6 @@ class Example_2 {
         num = 100; //Tento riadok premennej num priraďuje hodnotu 100
         System.out.println ("Hodnota num je: " + num);
 
-        num = num * 2;
-
-        System.out.print ("Hodnota num * 2 je: ");
-        System.out.println (num);
+        System.out.println (num * 2);
     }
 }

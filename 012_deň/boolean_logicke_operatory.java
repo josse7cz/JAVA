@@ -1,6 +1,6 @@
 public class boolean_logicke_operatory {
     public static void main(String[] args) {
-        boolean a = true;
+        boolean a = false;
         boolean b = false;
 
         // Logický AND
